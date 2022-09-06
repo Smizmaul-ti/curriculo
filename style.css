@@ -25,7 +25,14 @@ ul:hover {
 }
 
 a {
+    text-decoration: none;
     color:#947F57
-    
 }
 
+a:visited{
+    color: #947F57;
+}
+
+a:hover{
+    color: black;
+}
