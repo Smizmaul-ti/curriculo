@@ -19,7 +19,7 @@
     <body>
         <h1><strong> Smizmaul Alves Pereira </strong></h1>
 
-    <div id="contato">
+    <div style="text-decoration:none;" id="contato">
         <ul>
             <b><strong> Cidade: </strong><a href="https://goo.gl/maps/myJhuC6jdr4yzeec9" target="_blank"> Araras-SP</a></b><br>
             <b><strong> Telefone: </strong></b> <a href="https://wa.me://+5519974092363" target="_blank"> 19.9.7409-2363</a><br>
