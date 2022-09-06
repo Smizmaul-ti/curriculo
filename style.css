@@ -25,17 +25,7 @@ ul:hover {
 }
 
 a {
-    text-decoration: none;
+    color:#947F57
+    
 }
-
-a:visited {
-    text-decoration: none;
-    background-color:#947F57
-}
-
-a:hover{
-    padding: 15px;
-    background-color:#947F57
-}
-
 
