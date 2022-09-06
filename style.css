@@ -32,6 +32,20 @@ a {
     text-decoration: none;
 }
 
+a:visited {
+    text-decoration: none;
+    background-color:#947F57
+}
+
+a:hover{
+    padding: 15px;
+}
+
+.gradiente {
+    height: 100%;
+    background-color: linear-gradient(rgb(190, 38, 38), black, #947F57);
+}
+
 .gradiente {
     height: 100%;
     background: linear-gradient(rgb(190, 38, 38), black, #947F57);
